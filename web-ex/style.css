@@ -1,0 +1,212 @@
+nav a:hover{
+    color: rgb(245, 245, 253);
+    border: blue;
+    background-color: rgb(88, 200, 219);
+
+
+}
+.navbar{
+    background-color: turquoise;
+}
+.dropdown-toggle{
+    background-color: turquoise;
+}
+.demo{
+    margin-top: 0px;
+    padding-top: 0px;
+    
+    
+}
+.text{
+    
+    margin: 80px;
+}
+.text h1{
+    text-align: center;
+    font-style: normal;
+    font-size: 30px;
+    color: rgb(8, 8, 8);
+}
+.text p{
+    text-align: center;
+    text-decoration: deepskyblue;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+    justify-content: start;
+}
+.row{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 4rem;
+    background-color: rgb(252, 244, 244);
+    
+  }
+  .row div h1{
+      margin-top: 5px;
+      
+      color: rgb(10, 10, 10);
+
+  }
+  .row div i{
+      font-size: 4rem;
+  }
+
+  .row  div{
+    
+    text-align: center;
+    font-size: 5rem;
+   
+    margin-left: 70px;
+    margin-right: 20px;
+
+    
+  }
+
+  
+  .row div h1{
+      font-size: 2rem;
+      text-align: center;
+      margin-left: 0px;
+      padding-left: 0px;
+      color: rgb(0, 3, 0);
+  }
+ .row div p{
+     font-size: 15px;
+     margin-top: 5px;
+     margin-left: 10px;
+     margin-right: 10px;
+     display: flex;
+     text-align: center;
+ }
+
+ .contain{
+     margin: 50px;
+
+ }
+ .contain h1{
+     text-align: center;
+     
+     font-family: Arial, Helvetica, sans-serif;
+     
+ }
+ .contain p{
+     text-align: center;
+     font-style: normal;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+    color: navy;
+ }
+  
+ .row img{
+     height: 230px;
+     width: 380px;
+
+ }
+
+ .none{
+     margin-left: 300px;
+     margin-right: 380px;
+ }
+ .bg{
+     background-color: white;
+    
+ }
+ .bg div img{
+     margin-left: 55px;
+     padding-right: 0px;
+ }
+ 
+ .omi{
+     position: relative;
+   
+ }
+ .image{
+    
+     width: 100%;
+ }
+ .overlay{
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 230px;
+     width: 380px;
+    transition: 1s ease;
+    background-color: darkblue;
+ }
+
+ .omi:hover .image{
+    opacity: 0.3;
+
+ }
+ .my{
+     position: relative;
+     color: rgb(231, 231, 240);
+     font-size: 30px;
+     margin-top: 110px;
+     
+     border: 1px solid;
+     text-align: center;
+   
+    }
+    .my2{
+        position: relative;
+        color: rgb(231, 231, 240);
+        font-size: 30px;
+        margin-top: 110px;
+        margin-left: 5px;
+        border: 1px solid;
+        text-align: center;
+      
+       }
+ .omi:hover .overlay{
+     opacity: 0.3;
+    
+ }
+ .fa-user{
+     color: blue;
+ }
+ .area{
+     margin-top: 40px;
+     
+     background-image: url("images/1.webp");
+ }
+ .area h1,h3,h6{
+     margin-top: 
+     0px;
+     text-align: center;
+     color: white;
+ }
+ .area p{
+     text-align: center;
+     font-size: 9px;
+     color: white;
+ }
+ .frm{
+text-align: center;
+background: transparent;
+}
+.area span{
+    color: white;
+    
+}
+
+.nan{
+    background: transparent;
+    color: white;
+    border-color: white;
+    width: 500px;
+    margin-bottom: 20px;
+}
+.nan1{
+
+    margin-left: 200px;
+}
+footer{
+    margin-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
