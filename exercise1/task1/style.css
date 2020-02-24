@@ -1,0 +1,17 @@
+#watch{
+    text-align: left;
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-left: 50px;
+}
+#stopwatch{
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.btn{
+    margin-top: 50px;
+    margin-left: 70px;
+}
