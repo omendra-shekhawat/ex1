@@ -1,0 +1,97 @@
+.col
+{
+    background-color: antiquewhite;
+}
+.details{
+    
+    padding-top: 10%px;
+    padding-left: 30%;
+    width: 75%;
+    
+    
+    
+}
+.reg{
+    text-align: center;
+    font-style: normal;
+    color: turquoise;
+    font-size: xx-large;
+    margin-top: 10%;
+}
+.main{
+    border:2px solid;
+    padding: 10px;
+    
+    border-radius: 5px;
+}
+.frm{
+    margin-top: 1rem;
+ 
+}
+.frm a{
+    margin-right: 10rem;
+}
+.frm1{
+    width: 100%;
+}
+.frm1 input{
+    background-color: blue;
+    color: white;
+}
+/*  ---------------------------------------------------------admin css */
+.us{
+    margin-left: 20%;
+    font-size: xx-large;
+    color: blue;
+    border: blue;
+    
+}
+#Add{
+    margin-left: 20%;
+    background-color: blue;
+    color: white;
+}
+.addButton{
+background-color: rgba(11, 15, 248, 0.945);
+color: white;
+min-width: 80px;
+max-width: 80px;
+
+
+}
+.delButton{
+    background-color: rgba(235, 1, 1, 0.945);
+color: white;
+min-width: 80px;
+max-width: 80px;
+
+}
+.users{
+    margin-left: 25%;
+}
+
+.coursesRow{
+    margin-left: 2%;
+    margin-right: 70%;
+    display:flex;
+    justify-content: space-between;
+    min-width: 250px;
+    align-self: auto;
+}
+.users .topics{
+    display: none;
+}
+.navig{
+    background-color: rgb(39, 39, 134);
+   
+}
+#username{
+    background-color: rgb(39, 39, 134);;
+    color: white;
+}
+/* -----------------------student css */
+.content{
+    margin-left: 20%;
+    color: turquoise;
+    font-size: 2rem;
+}

@@ -1,0 +1,24 @@
+.flex-container {
+    display: flex;
+    height: 180px;
+    align-items: center;
+    background-color: white;
+  }
+  
+  .flex-container > div {
+    background-color: #2f98dd;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    align-items: center;
+  }
+  .flex-container div p{
+    font-size: medium;
+    margin-top: 0px
+  }
+  #box3{
+    font-size: 20px;
+  }
